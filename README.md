@@ -1,8 +1,11 @@
-  1. Link to t he presentation video
-  2. Summary
-  3. Matterials Used 
-  4. Diagram
-  5. Credits
+  Title: 4x4 Blueooth Arduino Car
+
+  Table of Contents:
+    1. Link to t he presentation video
+    2. Summary
+    3. Matterials Used 
+    4. Diagram
+    5. Credits
 
 The link to the presentation video:
 https://www.youtube.com/watch?v=H4YrxH688xo
